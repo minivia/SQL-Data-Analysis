@@ -1,1 +1,1 @@
-
+Exploring COVID-19 data provided by [Our World In Data](https://ourworldindata.org/explorers/coronavirus-data-explorer) to demonstrate joins, CTE's, temp tables, windows functions, aggregate functions, creating views, and converting data types. Created a [Tableau Dashboard]( https://public.tableau.com/app/profile/minivia/viz/COVID-19GlobalVisualization/Dashboard1) after querying the data in SQL.
