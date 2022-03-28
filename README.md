@@ -11,6 +11,6 @@ Joining multiple tables:
 - [Songify Introduction](https://github.com/minivia/SQL-Data-Analysis/tree/main/Joining%20Multiple%20Tables/Songify)
 - [Multiple Tables with Reddit](https://github.com/minivia/SQL-Data-Analysis/tree/main/Joining%20Multiple%20Tables/Reddit)
 
-Analyze real data with SQL: 
+Analyzing real data with SQL: 
 - [COVID 19 Data Exploration](https://github.com/minivia/SQL-Data-Analysis/tree/main/Analyzing%20Real%20Data/COVID%2019%20Data%20Exploration)
 - [Calculating Churn Rates](https://github.com/minivia/SQL-Data-Analysis/tree/main/Analyzing%20Real%20Data/Calculating%20Churn%20Rates)
