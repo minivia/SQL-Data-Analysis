@@ -4,7 +4,7 @@ Compilation of SQL data analysis related projects and challenges where I practic
 # Projects and Challenges 
 
 Aggregates projects: 
-* [How to Hack Hackers News](https://github.com/minivia/SQL-Data-Analysis/tree/main/Aggregates%20Projects/How%20to%20Hack%20Hackers%20News)
+* 		[How to Hack Hackers News](https://github.com/minivia/SQL-Data-Analysis/tree/main/Aggregates%20Projects/How%20to%20Hack%20Hackers%20News)
 - [Cryptocurrency Exchange](https://github.com/minivia/SQL-Data-Analysis/tree/main/Aggregates%20Projects/Cryptocurrency%20Exchange)
 
 Joining multiple tables: 
